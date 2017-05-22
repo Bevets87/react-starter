@@ -1,5 +1,5 @@
 {
-  "name": "pintrest-clone-app",
+  "name": "react-starter-app",
   "version": "1.0.0",
   "description": "A basic fullstack pintrest clone",
   "main": "./src/server/app.prod.js",
@@ -48,13 +48,6 @@
     "webpack-dev-middleware": "^1.10.2",
     "webpack-dev-server": "^2.4.5",
     "webpack-hot-middleware": "^2.18.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Bevets87/Pintrest-Clone-App.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Bevets87/Pintrest-Clone-App/issues"
-  },
-  "homepage": "https://github.com/Bevets87/Pintrest-Clone-App#readme"
+  }
+
 }
