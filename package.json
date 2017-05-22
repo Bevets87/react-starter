@@ -48,6 +48,13 @@
     "webpack-dev-middleware": "^1.10.2",
     "webpack-dev-server": "^2.4.5",
     "webpack-hot-middleware": "^2.18.0"
-  }
-
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bevets87/react-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bevets87/react-starter/issues"
+  },
+  "homepage": "https://github.com/Bevets87/react-starter#readme"
 }
