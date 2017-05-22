@@ -1,7 +1,7 @@
 {
   "name": "react-starter-app",
   "version": "1.0.0",
-  "description": "A basic fullstack pintrest clone",
+  "description": "A starter app for the mern stack",
   "main": "./src/server/app.prod.js",
   "scripts": {
     "build": "webpack --config ./webpack.config.prod.js -p --progress --colors",
